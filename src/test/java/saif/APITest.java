@@ -15,4 +15,14 @@ public class APITest {
 		System.out.println("element6");
 	}
 
+	@Test
+	public void element7()
+	{
+		System.out.println("element6");
+	}
+	@Test
+	public void element8()
+	{
+		System.out.println("element6");
+	}
 }
