@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="47" started-at="2019-04-10T20:36:43Z" finished-at="2019-04-10T20:36:43Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="47" started-at="2019-04-10T20:36:43Z" finished-at="2019-04-10T20:36:43Z">
+      <class name="saif.APITest">
+        <test-method status="PASS" signature="element5()[pri:0, instance:saif.APITest@12843fce]" name="element5" duration-ms="0" started-at="2019-04-10T20:36:43Z" finished-at="2019-04-10T20:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element5 -->
+        <test-method status="PASS" signature="element6()[pri:0, instance:saif.APITest@12843fce]" name="element6" duration-ms="0" started-at="2019-04-10T20:36:43Z" finished-at="2019-04-10T20:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element6 -->
+      </class> <!-- saif.APITest -->
+      <class name="saif.SeleniumTest">
+        <test-method status="PASS" signature="element1()[pri:0, instance:saif.SeleniumTest@97e1986]" name="element1" duration-ms="0" started-at="2019-04-10T20:36:43Z" finished-at="2019-04-10T20:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element1 -->
+        <test-method status="PASS" signature="element2()[pri:0, instance:saif.SeleniumTest@97e1986]" name="element2" duration-ms="0" started-at="2019-04-10T20:36:43Z" finished-at="2019-04-10T20:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element2 -->
+      </class> <!-- saif.SeleniumTest -->
+      <class name="saif.AppiumTest">
+        <test-method status="PASS" signature="element4()[pri:0, instance:saif.AppiumTest@3dd3bcd]" name="element4" duration-ms="0" started-at="2019-04-10T20:36:43Z" finished-at="2019-04-10T20:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element4 -->
+      </class> <!-- saif.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

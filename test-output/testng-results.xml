@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78" started-at="2019-04-15T20:37:15Z" finished-at="2019-04-15T20:37:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78" started-at="2019-04-15T20:37:15Z" finished-at="2019-04-15T20:37:15Z">
+      <class name="saif.APITest">
+        <test-method status="PASS" signature="element5()[pri:0, instance:saif.APITest@3c0ecd4b]" name="element5" duration-ms="15" started-at="2019-04-15T20:37:15Z" finished-at="2019-04-15T20:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element5 -->
+        <test-method status="PASS" signature="element6()[pri:0, instance:saif.APITest@3c0ecd4b]" name="element6" duration-ms="0" started-at="2019-04-15T20:37:15Z" finished-at="2019-04-15T20:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element6 -->
+      </class> <!-- saif.APITest -->
+      <class name="saif.AppiumTest">
+        <test-method status="PASS" signature="element3()[pri:0, instance:saif.AppiumTest@14bf9759]" name="element3" duration-ms="0" started-at="2019-04-15T20:37:15Z" finished-at="2019-04-15T20:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element3 -->
+        <test-method status="PASS" signature="element4()[pri:0, instance:saif.AppiumTest@14bf9759]" name="element4" duration-ms="0" started-at="2019-04-15T20:37:15Z" finished-at="2019-04-15T20:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element4 -->
+      </class> <!-- saif.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
